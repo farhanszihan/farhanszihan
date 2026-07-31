@@ -65,7 +65,7 @@ print(me.current_mission())
 
 ## 📈 github activity graph
 
-![Zihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farhansadidzihan&theme=react-dark&hide_border=true&area=true&color=D4AF37&line=D4AF37&point=F6DC8A&bg_color=0D1117)
+![Zihan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farhanszihan&theme=react-dark&hide_border=true&area=true&color=D4AF37&line=D4AF37&point=F6DC8A&bg_color=0D1117)
 
 ---
 
