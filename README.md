@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:D4AF37&height=200&section=header&text=farhan%20s%20zihań&fontSize=52&fontColor=F6DC8A&fontAlignY=38&desc=building%20fund%20de%20hedg%C3%A9&descSize=18&descAlignY=58&descColor=D4AF37&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:D4AF37&height=200&section=header&text=farhan%20s%20ziha%C5%84&fontSize=52&fontColor=F6DC8A&fontAlignY=38&desc=building%20fund%20de%20hedg%C3%A9&descSize=18&descAlignY=58&descColor=D4AF37&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=24&duration=3500&pause=800&color=D4AF37&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=vice+president+at+amaze+consortium;founder%2C+research+de+capital%C3%A9;" alt="typing svg" />
@@ -14,6 +14,7 @@
 [![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=D4AF37)](https://www.geeksforgeeks.org/profile/farhansadidzihan67)
 [![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=D4AF37)](https://leetcode.com/u/farhansadidzihan)
 [![codechef](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef&logoColor=D4AF37)](https://www.codechef.com/users/farhanszihan)
+[![devpost](https://img.shields.io/badge/devpost-000000?style=for-the-badge&logo=devpost&logoColor=D4AF37)](https://devpost.com/farhansadidzihan)
 
 </div>
 
